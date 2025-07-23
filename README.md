@@ -1,4 +1,6 @@
-### Install the prerequisites via pip
+# OCR using OpenCV and EasyOCR
+
+### Install the prerequisites via pip - install pytesseract from official site
 
 pip install pillow
 pip install opencv-python
